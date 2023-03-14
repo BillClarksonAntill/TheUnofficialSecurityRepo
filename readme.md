@@ -11,9 +11,9 @@ If you have any questions or run into any issues, please feel free to open an is
 
 ### Microsoft Communities ###
 
-[I'm an inline-style link](https://www.google.com)
-
 [Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)
+[Identity and Network Access and Security Government Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2S7iBSzt7xHgt8hpEjayo1URVhVSlNPSU9BRlFKTkw2WkY3TjY2WUNZQy4u)
+
 
 ## Contributing ##
 We welcome contributions from everyone in our community, regardless of experience level. Here are a few ways you can contribute:
