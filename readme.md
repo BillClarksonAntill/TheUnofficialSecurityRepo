@@ -9,12 +9,20 @@ If you have any questions or run into any issues, please feel free to open an is
 ## Resources ##
 
 
+## Contributing ##
+We welcome contributions from everyone in our community, regardless of experience level. Here are a few ways you can contribute:
+
+Report bugs and suggest features for our projects
+Participate in discussions and provide feedback on issues
+Submit pull requests to fix issues or add new features to our projects
+Organize events or share resources related to cybersecurity
+
 ## Pull Request Steps ##
 If you're new to GitHub or open source contribution, you can use the following steps to submit a pull request:
 
-Fork the repository you want to contribute to
-Clone the forked repository to your local machine
-Create a new branch for your changes
-Make your changes and commit them with a clear and concise commit message
-Push your changes to your forked repository
-Create a pull request from your forked repository to the original repository
+* Fork the repository you want to contribute to
+* Clone the forked repository to your local machine
+* Create a new branch for your changes
+* Make your changes and commit them with a clear and concise commit message
+* Push your changes to your forked repository
+* Create a pull request from your forked repository to the original repository
