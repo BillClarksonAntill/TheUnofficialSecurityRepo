@@ -7,7 +7,7 @@ The code and resources in this repository are open-source and freely available t
 If you have any questions or run into any issues, please feel free to open an issue or reach out to us directly.
 
 ## Resources ##
-
+* Rod Trent Github - https://github.com/rod-trent
 
 ## Contributing ##
 We welcome contributions from everyone in our community, regardless of experience level. Here are a few ways you can contribute:
