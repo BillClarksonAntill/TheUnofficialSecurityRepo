@@ -13,7 +13,7 @@ If you have any questions or run into any issues, please feel free to open an is
 
 [I'm an inline-style link](https://www.google.com)
 
-[Cloud Security Private Community](https://eff.org](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)
+[Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)
 
 ## Contributing ##
 We welcome contributions from everyone in our community, regardless of experience level. Here are a few ways you can contribute:
