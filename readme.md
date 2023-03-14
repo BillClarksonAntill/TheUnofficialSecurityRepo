@@ -11,12 +11,12 @@ If you have any questions or run into any issues, please feel free to open an is
 
 ### Microsoft Communities ###
 
-[Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)
-[Identity and Network Access and Security Government Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2S7iBSzt7xHgt8hpEjayo1URVhVSlNPSU9BRlFKTkw2WkY3TjY2WUNZQy4u)
-[Microsoft 365 Defender](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)
-[Windows](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR35z8y2oNjBOmsgL_HrnYKlUMFVBRUZXTVRVMDRMVUhJVE4yRTYzOUdVWC4u)
-[Microsoft Endpoint Manager](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR35z8y2oNjBOmsgL_HrnYKlUMFVBRUZXTVRVMDRMVUhJVE4yRTYzOUdVWC4u)
-[Compliance & Privacy Communities](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)
+[Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)<br>
+[Identity and Network Access and Security Government Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2S7iBSzt7xHgt8hpEjayo1URVhVSlNPSU9BRlFKTkw2WkY3TjY2WUNZQy4u)<br>
+[Microsoft 365 Defender](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)<br>
+[Windows](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR35z8y2oNjBOmsgL_HrnYKlUMFVBRUZXTVRVMDRMVUhJVE4yRTYzOUdVWC4u)<br>
+[Microsoft Endpoint Manager](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR35z8y2oNjBOmsgL_HrnYKlUMFVBRUZXTVRVMDRMVUhJVE4yRTYzOUdVWC4u)<br>
+[Compliance & Privacy Communities](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)<br>
 
 
 ## Contributing ##
