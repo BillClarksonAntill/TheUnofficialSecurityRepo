@@ -12,10 +12,10 @@ If you have any questions or run into any issues, please feel free to open an is
 ## Contributing ##
 We welcome contributions from everyone in our community, regardless of experience level. Here are a few ways you can contribute:
 
-Report bugs and suggest features for our projects
-Participate in discussions and provide feedback on issues
-Submit pull requests to fix issues or add new features to our projects
-Organize events or share resources related to cybersecurity
+* Report bugs and suggest features for our projects
+* Participate in discussions and provide feedback on issues
+* Submit pull requests to fix issues or add new features to our projects
+* Organize events or share resources related to cybersecurity
 
 ## Pull Request Steps ##
 If you're new to GitHub or open source contribution, you can use the following steps to submit a pull request:
