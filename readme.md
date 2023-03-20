@@ -8,9 +8,11 @@ If you have any questions or run into any issues, please feel free to open an is
 
 ## Resources ##
 * Rod Trent Github - https://github.com/rod-trent
+* Elli Shlomo - https://github.com/eshlomo1
+* Ashwin Venugopal Blog - https://ashwinitpro.blogspot.com/
+* Microsoft Security Insights Podcast - https://microsoftsecurityinsights.com/
 
 ### Microsoft Communities ###
-
 Microsoft has several customer connections programs for the private communities where you can sign-up for to make a difference in helping them shape security related products. Product roadmaps, co-design participation, feature previews and up to date announcements are some of the benefits of joining the Private preview commuinity.
 
 [Cloud Security Private Community](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR5ux0wrHAn9NiZHjg_f7qV9URjJENVJCWjU4RFdHWllHTDNFUENNTlRHRy4u)<br>
@@ -29,6 +31,8 @@ We welcome contributions from everyone in our community, regardless of experienc
 * Submit pull requests to fix issues or add new features to our projects
 * Organize events or share resources related to cybersecurity
 
+This project welcomes contributions and suggestions. Contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to and actually do, grant us the rights to use your contribution.
+
 ## Pull Request Steps ##
 If you're new to GitHub or open source contribution, you can use the following steps to submit a pull request:
 
@@ -38,3 +42,4 @@ If you're new to GitHub or open source contribution, you can use the following s
 * Make your changes and commit them with a clear and concise commit message
 * Push your changes to your forked repository
 * Create a pull request from your forked repository to the original repository
+
