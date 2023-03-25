@@ -26,7 +26,7 @@ There are several reasons why an organization would use threat-informed defense 
 
 Using threat-informed defense involves several key steps:
 
-* dentify and analyze potential threats: This involves monitoring a variety of sources, such as industry reports, threat intelligence feeds, and security incidents, to identify emerging threats and vulnerabilities.
+* Identify and analyze potential threats: This involves monitoring a variety of sources, such as industry reports, threat intelligence feeds, and security incidents, to identify emerging threats and vulnerabilities.
 
 * Assess risk: Once potential threats have been identified, it is important to assess the potential impact of these threats and their likelihood of occurring.
 
