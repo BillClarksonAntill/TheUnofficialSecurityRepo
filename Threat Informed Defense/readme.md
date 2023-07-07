@@ -22,6 +22,17 @@ There are several reasons why an organization would use threat-informed defense 
 
 * Reduce overall cybersecurity costs: By proactively identifying and mitigating potential threats, organizations can potentially reduce the overall costs associated with cybersecurity incidents and data breaches, such as legal and regulatory fines, reputational damage, and lost revenue.
 
+## Benefits of a Threat Informed Defense Model ##
+Using a Threat Informed Defense Approach provides several benefits to organizations, including:
+
+* Improved threat detection and response: TID enables organizations to identify and respond to threats more effectively. By analyzing the tactics and techniques used by attackers, organizations can develop more accurate threat models and develop response plans that are tailored to specific threats.
+
+* Enhanced situational awareness: TID provides organizations with a better understanding of the threat landscape and the potential risks to their assets. This awareness enables organizations to prioritize their security efforts and allocate resources more effectively.
+
+* Reduced risk: By implementing security controls that are tailored to specific threats, organizations can reduce their overall risk of cyber attacks. TID helps organizations to focus on the most significant threats to their assets and develop targeted defense strategies.
+
+* Improved incident response: TID enables organizations to respond more quickly and effectively to cyber attacks. By developing detailed threat models and response plans, organizations can minimize the impact of cyber attacks and reduce the time to recovery.
+
 ## How do you use Threat Informed Defense ##
 
 Using threat-informed defense involves several key steps:
