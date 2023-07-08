@@ -47,4 +47,6 @@ Using threat-informed defense involves several key steps:
 
 * Learn from incidents: Even with strong defenses in place, incidents may still occur. It is important to conduct post-incident analysis to understand what happened and identify opportunities for improvement.
 
-![alt text](https://github.com/BillClarksonAntill/TheUnofficialSecurityRepo/blob/main/Threat%20Informed%20Defense/ACC-ThreatInformedDefense.jpg)
+
+A Visual way to Interpret Threat Informed Defense
+![visual model](https://github.com/BillClarksonAntill/TheUnofficialSecurityRepo/blob/main/Threat%20Informed%20Defense/ACC-ThreatInformedDefense.jpg)
