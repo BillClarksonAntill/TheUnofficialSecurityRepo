@@ -46,3 +46,4 @@ Using threat-informed defense involves several key steps:
 * Continuously monitor and update defenses: Threats are constantly evolving, so it is important to continuously monitor and update security measures to stay ahead of potential attackers. This may involve ongoing threat analysis and risk assessments, as well as regular testing and validation of security controls.
 
 * Learn from incidents: Even with strong defenses in place, incidents may still occur. It is important to conduct post-incident analysis to understand what happened and identify opportunities for improvement.
+
